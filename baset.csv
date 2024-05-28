@@ -22,7 +22,7 @@ Edad;Sexo;Condicion;Promedio
 (30-50];M;Con punto;217.862
 (50-70];M;Sin punto;357.632
 (30-50];F;Con punto;295.978
-(50-70];M;Con punto;391.297
+(50-70];M;Con punto;351.297
 (30-50];F;Con punto;299.7465
 (50-70];F;Sin punto;379.058
 (30-50];M;Sin punto;324.267
@@ -75,7 +75,7 @@ Edad;Sexo;Condicion;Promedio
 (30-50];F;Sin punto;286.895
 (30-50];M;Sin punto;217.4135
 (10-30];F;Con punto;236.204
-(50-70];F;Con punto;395.6965
+(50-70];F;Con punto;345.6965
 (50-70];M;Con punto;227.518
 (50-70];F;Sin punto;293.5365
 (10-30];F;Sin punto;286.1525
