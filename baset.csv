@@ -1,6 +1,6 @@
 Edad;Sexo;Condicion;Promedio
 (10-30];M;Con punto;251.3285
-(50-70];F;Con punto;505.441
+(50-70];F;Con punto;355.441
 (10-30];M;Con punto;246.823
 (10-30];F;Sin punto;241.8065
 (50-70];M;Con punto;317.5
@@ -24,7 +24,7 @@ Edad;Sexo;Condicion;Promedio
 (30-50];F;Con punto;295.978
 (50-70];M;Con punto;511.297
 (30-50];F;Con punto;299.7465
-(50-70];F;Sin punto;479.058
+(50-70];F;Sin punto;379.058
 (30-50];M;Sin punto;324.267
 (10-30];F;Sin punto;214.6265
 (30-50];M;Sin punto;252.807
@@ -41,7 +41,7 @@ Edad;Sexo;Condicion;Promedio
 (50-70];F;Con punto;335.758
 (10-30];M;Con punto;223.971
 (10-30];M;Sin punto;179.2605
-(50-70];F;Sin punto;423.082
+(50-70];F;Sin punto;323.082
 (30-50];M;Con punto;263.063
 (30-50];M;Con punto;244.987
 (50-70];M;Sin punto;263.063
@@ -55,7 +55,7 @@ Edad;Sexo;Condicion;Promedio
 (10-30];F;Con punto;218.1705
 (30-50];M;Sin punto;254.912
 (30-50];M;Con punto;305.19
-(50-70];F;Con punto;435.521
+(50-70];F;Con punto;335.521
 (30-50];F;Sin punto;335.846
 (10-30];F;Con punto;273.51
 (30-50];M;Sin punto;248.184
@@ -68,7 +68,7 @@ Edad;Sexo;Condicion;Promedio
 (10-30];M;Sin punto;234.4565
 (30-50];F;Sin punto;238.3955
 (10-30];M;Sin punto;217.7645
-(50-70];F;Sin punto;444.5875
+(50-70];F;Sin punto;344.5875
 (50-70];F;Con punto;378.3935
 (50-70];M;Con punto;368.868
 (30-50];F;Sin punto;228.581
@@ -77,9 +77,9 @@ Edad;Sexo;Condicion;Promedio
 (10-30];F;Con punto;236.204
 (50-70];F;Con punto;445.6965
 (50-70];M;Con punto;227.518
-(50-70];F;Sin punto;493.5365
+(50-70];F;Sin punto;293.5365
 (10-30];F;Sin punto;286.1525
-(50-70];M;Sin punto;432.3945
+(50-70];M;Sin punto;332.3945
 (30-50];F;Con punto;216.262
 (10-30];M;Con punto;254.4295
 (30-50];F;Sin punto;263.562
@@ -100,13 +100,13 @@ Edad;Sexo;Condicion;Promedio
 (30-50];M;Sin punto;187.493
 (50-70];M;Con punto;438.866
 (10-30];M;Con punto;214.595
-(50-70];M;Sin punto;440.9505
-(50-70];F;Con punto;424.867
+(50-70];M;Sin punto;340.9505
+(50-70];F;Con punto;364.867
 (50-70];M;Con punto;286.434
-(50-70];M;Con punto;474.0295
+(50-70];M;Con punto;274.0295
 (30-50];M;Con punto;235.4685
 (10-30];F;Con punto;178.555
-(50-70];M;Sin punto;396.994
+(50-70];M;Sin punto;296.994
 (50-70];M;Sin punto;279.4115
 (30-50];F;Con punto;201.1835
 (50-70];F;Sin punto;357.0455
